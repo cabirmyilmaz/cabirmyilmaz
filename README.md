@@ -7,7 +7,7 @@ Focused on **Flight Performance & Dynamics**, **Control Systems & Simulation**, 
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 - **Languages & Scientific Computing:** Python, MATLAB, Simulink, Simscape, LaTeX
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, SciPy, Python Control Systems Library
 - **Engineering, CAD & Simulation:** SolidWorks, CATIA
@@ -15,7 +15,7 @@ Focused on **Flight Performance & Dynamics**, **Control Systems & Simulation**, 
 
 ---
 
-### 🔭 Focus Areas
+### Focus Areas
 - **Aircraft Design & Performance:** Conceptual design, aerodynamics, flight envelope, and mission analysis.
 - **Flight Mechanics & Dynamics:** 6-DoF equations of motion, dynamic stability, trim analysis, and numerical simulation.
 - **Control Systems & Multibody Modeling:** State-space modeling, feedback control law design, and physical modeling in Simulink/Simscape.
@@ -23,5 +23,5 @@ Focused on **Flight Performance & Dynamics**, **Control Systems & Simulation**, 
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - **LinkedIn:** [Cabir Mahmut Yılmaz](linkedin.com/in/cabir-mahmut-yılmaz-865a4722b)
